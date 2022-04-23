@@ -1,0 +1,9 @@
+# ninja log v5
+0	57	0	CMakeFiles/DIVOpenCV_autogen	4254679f85027167
+0	57	0	DIVOpenCV_autogen/mocs_compilation.cpp	4254679f85027167
+0	57	0	/Users/caojian/Desktop/DIVOpenCV/cmake-build-release/CMakeFiles/DIVOpenCV_autogen	4254679f85027167
+0	57	0	/Users/caojian/Desktop/DIVOpenCV/cmake-build-release/DIVOpenCV_autogen/mocs_compilation.cpp	4254679f85027167
+58	102	1650686246656489229	CMakeFiles/DIVOpenCV.dir/DIVOpenCV_autogen/mocs_compilation.cpp.o	ab37416fae5e7818
+58	1009	1650686247558744559	CMakeFiles/DIVOpenCV.dir/main.cpp.o	ce63f91fda3ce0a0
+58	1016	1650686247565988217	CMakeFiles/DIVOpenCV.dir/Application/Application.cpp.o	e29389ee6d9586d7
+1016	1072	1650686247625661077	DIVOpenCV	d68817472a82a55c

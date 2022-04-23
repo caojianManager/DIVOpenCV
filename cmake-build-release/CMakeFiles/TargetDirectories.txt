@@ -1,0 +1,4 @@
+/Users/caojian/Desktop/DIVOpenCV/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/caojian/Desktop/DIVOpenCV/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/caojian/Desktop/DIVOpenCV/cmake-build-release/CMakeFiles/DIVOpenCV.dir
+/Users/caojian/Desktop/DIVOpenCV/cmake-build-release/CMakeFiles/DIVOpenCV_autogen.dir
