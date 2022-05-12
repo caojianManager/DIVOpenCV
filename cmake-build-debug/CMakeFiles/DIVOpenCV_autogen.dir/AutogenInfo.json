@@ -70,7 +70,8 @@
 		"/Users/caojian/Qt5.13.2/5.13.2/clang_64/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake",
 		"/Users/caojian/Qt5.13.2/5.13.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
 		"/Users/caojian/Qt5.13.2/5.13.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseArguments.cmake"
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseArguments.cmake",
+		"/Users/caojian/Desktop/DIVOpenCV/Resources/resources.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "/Users/caojian/Desktop/DIVOpenCV",
 	"DEP_FILE" : "",
@@ -78,9 +79,21 @@
 	"HEADERS" : 
 	[
 		[
-			"/Users/caojian/Desktop/DIVOpenCV/Application/Application.h",
+			"/Users/caojian/Desktop/DIVOpenCV/Login/LoginWindow.h",
 			"MU",
-			"FZ6LJCDW2M/moc_Application.cpp",
+			"DBZLJR3XRS/moc_LoginWindow.cpp",
+			null
+		],
+		[
+			"/Users/caojian/Desktop/DIVOpenCV/MainWindow/MainWindow.h",
+			"MU",
+			"WCPGUQ57CZ/moc_MainWindow.cpp",
+			null
+		],
+		[
+			"/Users/caojian/Desktop/DIVOpenCV/QtLearning/QtLearnColorUi/QtLearnColorUi.h",
+			"MU",
+			"HXXKNEH4H5/moc_QtLearnColorUi.cpp",
 			null
 		]
 	],
@@ -134,8 +147,14 @@
 	"SETTINGS_FILE" : "/Users/caojian/Desktop/DIVOpenCV/cmake-build-debug/CMakeFiles/DIVOpenCV_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "/Users/caojian/Desktop/DIVOpenCV/Login/LoginWindow.cpp", "MU", null ],
 		[
-			"/Users/caojian/Desktop/DIVOpenCV/Application/Application.cpp",
+			"/Users/caojian/Desktop/DIVOpenCV/MainWindow/MainWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/caojian/Desktop/DIVOpenCV/QtLearning/QtLearnColorUi/QtLearnColorUi.cpp",
 			"MU",
 			null
 		],
